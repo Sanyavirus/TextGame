@@ -1,0 +1,14 @@
+D:\Game\TextGame\TextGame.Engine\bin\Debug\net8.0\TextGame.Engine.deps.json
+D:\Game\TextGame\TextGame.Engine\bin\Debug\net8.0\TextGame.Engine.runtimeconfig.json
+D:\Game\TextGame\TextGame.Engine\bin\Debug\net8.0\TextGame.Engine.dll
+D:\Game\TextGame\TextGame.Engine\bin\Debug\net8.0\TextGame.Engine.pdb
+D:\Game\TextGame\TextGame.Engine\obj\Debug\net8.0\TextGame.Engine.csproj.AssemblyReference.cache
+D:\Game\TextGame\TextGame.Engine\obj\Debug\net8.0\TextGame.Engine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Game\TextGame\TextGame.Engine\obj\Debug\net8.0\TextGame.Engine.AssemblyInfoInputs.cache
+D:\Game\TextGame\TextGame.Engine\obj\Debug\net8.0\TextGame.Engine.AssemblyInfo.cs
+D:\Game\TextGame\TextGame.Engine\obj\Debug\net8.0\TextGame.Engine.csproj.CoreCompileInputs.cache
+D:\Game\TextGame\TextGame.Engine\obj\Debug\net8.0\TextGame.Engine.dll
+D:\Game\TextGame\TextGame.Engine\obj\Debug\net8.0\refint\TextGame.Engine.dll
+D:\Game\TextGame\TextGame.Engine\obj\Debug\net8.0\TextGame.Engine.pdb
+D:\Game\TextGame\TextGame.Engine\obj\Debug\net8.0\TextGame.Engine.genruntimeconfig.cache
+D:\Game\TextGame\TextGame.Engine\obj\Debug\net8.0\ref\TextGame.Engine.dll
