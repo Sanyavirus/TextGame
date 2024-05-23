@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/TextGame.Engine/bin
+/TextGameUI/.vs
+/TextGameUI/bin
+/TextGameUI/obj
+/TextGameUI/TextGame.WebUI/bin
+/TextGameUI/TextGame.WebUI/obj
